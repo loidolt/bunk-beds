@@ -1,53 +1,42 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 01/14/2023
+tags: woodworking, cnc
+description: 90 Degree bunk beds made for our sons featuring multiple entry points, built in lights/charges, and storage.
+slug: bunk-beds
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Bunk Beds
+
+90 Degree bunk beds made for our sons featuring multiple entry points, built in lights/charges, and storage.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Bunk Beds](#bunk-beds)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
   - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+These bunk beds feature a rounded, kid-safe design with a modern aesthetic in a 90-degree configuration. This design is focused on being useful long term, so the lower bed is entirely separate from the main structure to allow it to be used as a loft bed with a desk or chairs underneath once the kids transition to separate rooms.
+
+The top bed is twin size and features integrated lights for reading, USB ports for charging, and is rated to hold a full-size adult.
+
+The ladder is removable, to gain easier access to the storage cubbies. The storage cubbies are weight-bearing and are intended to be used as the primary method of entry to the top bunk once the kids are older and no longer need the ladder.
+
+The lower bed also features lights and a cubby with integrated USB ports for charging. All 4 lights are individually controllable and fully RGB through ESPHome and HomeAssistant allowing full control through the smart home. Buttons are also provided for basic functions so a smart home command is not always required.
+
+The entire assembly comes apart in three sections for transport, the sections are connected to one another with 1/4-20 machine screws and threaded inserts.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+- Sketchup
+- Fusion 360
+- ESPHome
 
 ## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+The lights are not shown in these photos, they were installed afterwards in the long retangular slots.
